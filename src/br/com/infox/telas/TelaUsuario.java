@@ -49,7 +49,7 @@ public class TelaUsuario extends javax.swing.JInternalFrame {
 
             } else {
 
-                JOptionPane.showMessageDialog(null, "Usuário não cadastrado no banco de dados!");
+                JOptionPane.showMessageDialog(null, "//Usuário não cadastrado no banco de dados!");
 
                 txtUsuNome.setText(null);
                 txtUsuFone.setText(null);
