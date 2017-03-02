@@ -48,7 +48,7 @@ public class TelaUsuario extends javax.swing.JInternalFrame {
                 cboUsuPerfil.setSelectedItem(rs.getString(6));
 
             } else {
-//TESTE 1
+//TESTE 2
                 JOptionPane.showMessageDialog(null, "Usuário não cadastrado no banco de dados!");
 
                 txtUsuNome.setText(null);
